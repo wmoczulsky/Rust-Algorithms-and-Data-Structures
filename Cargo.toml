@@ -1,0 +1,7 @@
+[package]
+name = "aisd"
+version = "0.1.0"
+authors = ["Wojciech Moczulski <womoczulski@gmail.com>"]
+
+[dependencies]
+rand = "0.4.2"
